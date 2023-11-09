@@ -1,7 +1,7 @@
 blinker==1.6.3
 click==8.1.7
 contourpy
-cycler==0.12.1
+cycler
 Flask==3.0.0
 fonttools==4.43.1
 importlib-metadata==6.8.0

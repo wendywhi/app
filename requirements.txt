@@ -1,8 +1,8 @@
-blinker==1.6.3
+blinker
 click==8.1.7
 contourpy
 cycler
-Flask==3.0.0
+Flask
 fonttools==4.43.1
 importlib-metadata==6.8.0
 importlib-resources==6.1.0
@@ -21,6 +21,6 @@ python-dateutil==2.8.2
 pytz==2023.3.post1
 six==1.16.0
 tzdata==2023.3
-Werkzeug==3.0.0
+Werkzeug
 zipp==3.17.0
 gunicorn
